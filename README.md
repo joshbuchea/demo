@@ -1,4 +1,4 @@
-# GitHub Tips
+# GitHub Tips ✨
 
 ## Lazy List Numbering
 
