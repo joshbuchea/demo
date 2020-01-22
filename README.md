@@ -1,6 +1,6 @@
 # GitHub Tips
 
-## Ordered List
+## Lazy List Numbering
 
 1. Item
 1. Item
